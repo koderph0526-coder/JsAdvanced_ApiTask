@@ -19,7 +19,7 @@ Prosjektet ditt må oppfylle minst to av disse kriteriene
 - Simply because I believe I can utilize this in my local storage task to implement a search function in addition to adding shows manually.
 - In short I think what I'm envisioning is a small dashboard that can be used as a search engine to find what you're looking for of anime or characters, that also allows you to sort all the shows by genre or ask for a random show suggestion.
 
-1. Read documentation on https://docs.api.jikan.moe/ []
+1. Read documentation on 'https://docs.api.jikan.moe/' []
 
 - Note: unlimited daily requests, 60 request per minute, 3 requests per second. This should not be an issue.
 
@@ -47,3 +47,5 @@ Prosjektet ditt må oppfylle minst to av disse kriteriene
 11. Remeber to put in a loading function/animation, as the Genre part of the page likely will take some time to load. []
 
 12. If possible it would be cool to be able to integrate a localstorage here as well to be able to create lists of shows the user would like to watch or consider watching. And which shows was previously searched for.
+
+- Could I connect the two different pages somehow(meaning the localStorageTask and this one)?
