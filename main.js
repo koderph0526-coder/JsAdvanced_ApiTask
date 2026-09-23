@@ -1,2 +1,3 @@
-import
+import url = "https://api.jikan.moe/v4/"
+// Gotta find out how to access the array/data from the link, seems the one above is msinly doumenation link...
 const 
